@@ -1,1 +1,1 @@
-# express-backend
+# Education-Platform-Backend
